@@ -9,6 +9,7 @@ Actix web is a simple, pragmatic and extremely fast web framework for Rust.
 * Configurable [request routing](https://actix.rs/docs/url-dispatch/)
 * Graceful server shutdown
 * Multipart streams
+
 * Static assets
 * SSL support with OpenSSL or `native-tls`
 * Middlewares ([Logger](https://actix.rs/book/actix-web/sec-9-middlewares.html#logging),
